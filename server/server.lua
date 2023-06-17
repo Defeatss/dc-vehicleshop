@@ -162,5 +162,3 @@ RegisterNetEvent('dc-vehicleshop:setVehicleOwned', function(vehicleData)
                 {Player.PlayerData.license, Player.PlayerData.citizenid, vehicleData["model"],
                  GetHashKey(vehicleData["model"]), vehicleData["mods"], vehicleData["plate"], 0})
 end)
-
-
