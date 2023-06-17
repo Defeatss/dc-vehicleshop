@@ -1,6 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
+author 'Defeatss'
+description 'Vehicle Shop for QBCore'
 
 version '1.1.0'
 
