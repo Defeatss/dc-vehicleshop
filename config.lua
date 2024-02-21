@@ -52,7 +52,6 @@ Config.Vehicles = {
       title = "compacts", -- Title of category.
       buttons = {
         {name = "Panto", costs = 5000, model = "panto"},
-        {name = "Toyota Supra MK4 (1998)", costs = 20000, model = "a80"},
       }
     },
     {
